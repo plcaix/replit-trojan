@@ -22,7 +22,7 @@ get_current_version() {
         CURRENT_VERSION=""
     fi
 }
-
+nezha
 get_latest_version() {
     # Get Xray latest release version number
     local tmp_file
